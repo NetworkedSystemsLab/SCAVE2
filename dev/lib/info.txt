@@ -1,0 +1,7 @@
+ReadME
+------------------------------------------------------------------
+
+Scripts             |     Description
+-----------------------------------------------------------------------------------------------------------------------------------------------
+install_modules.sh       installs python modules, to add to it simply add more commands at the end of the lines. For python follow the format.
+remove_modules.sh        removes python modules, to add to it simply add more commands at the end of the lines. For python follow the format.
