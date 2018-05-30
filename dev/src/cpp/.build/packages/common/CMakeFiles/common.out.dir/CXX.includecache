@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/workspace/SCAVE2/dev/src/cpp/packages/common/common.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/types.h
+-
+sys/time.h
+-
+termios.h
+-
+pthread.h
+-
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+
+/home/christian/workspace/SCAVE2/dev/src/cpp/packages/common/main.cpp
+common.h
+/home/christian/workspace/SCAVE2/dev/src/cpp/packages/common/common.h
+

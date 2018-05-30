@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -pthread  -rdynamic CMakeFiles/timer.out.dir/timer.cpp.o CMakeFiles/timer.out.dir/main.cpp.o  -o timer.out -lpthread 

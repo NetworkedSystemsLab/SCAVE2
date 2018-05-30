@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -pthread  -rdynamic CMakeFiles/serial.out.dir/serial.cpp.o CMakeFiles/serial.out.dir/main.cpp.o  -o serial.out -lpthread 

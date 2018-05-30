@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -pthread  -rdynamic CMakeFiles/jetsonTX2.out.dir/jetsonTX2.cpp.o CMakeFiles/jetsonTX2.out.dir/main.cpp.o  -o jetsonTX2.out -lpthread 

@@ -1,0 +1,5 @@
+add_subdirectory(common)
+add_subdirectory(jetsonTX2)
+add_subdirectory(serial)
+add_subdirectory(tachometer)
+add_subdirectory(timer)
